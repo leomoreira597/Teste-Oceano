@@ -32,3 +32,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Teste-Oceano usar o comando npm i para instalar as dependencias necessarias e npm run dev para subir, nessa aplicação fiz uma lista com uma fake api disponibilizada na internet, onde realizei os topicos do teste exceto a paginação, a fake api utilizada não tinha suporte a paginação e pelos meus estudos é necessario uma paginação para apis, está responsivel e simples, espero que gostem
